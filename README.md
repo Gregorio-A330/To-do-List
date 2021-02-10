@@ -5,7 +5,7 @@
 
 ## To Do List V2 -> em EJS com Mongo DB
 
-> Melhor configuração do site com EJS e implementação do MongoDB e utilização do Mongoose para tratamento dos dados no Banco
+> Melhor configuração do site com EJS, implementação do MongoDB e utilização do Mongoose para tratamento dos dados no Banco
 
 > Criado para teste com acesso em localhost e paginas dinamicas apenas alterando o endereço localhost:3000/<novapagina>
 
