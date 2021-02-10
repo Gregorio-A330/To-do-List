@@ -1,0 +1,4 @@
+O porque de usar templates e criar templates...
+
+imagine ficar utilizando diversas paginas separadas para montar seu conteudo, 
+sendo que seu conteudo é similar entre as paginas, apenas alterando uma coisa ou outra
